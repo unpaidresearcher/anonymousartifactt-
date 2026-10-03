@@ -1,4 +1,4 @@
-# CompoundBench — Replication Package
+# CompoundBench - Replication Package
 
 CompoundBench is a benchmark of **584 Python functions**, each carrying concerns from at least
 two of five categories, each retaining at least one concern no automated resolver can fix, and
