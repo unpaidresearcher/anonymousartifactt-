@@ -1,0 +1,29 @@
+{
+ "n_items": 584,
+ "n_control": 186,
+ "concern_categories": {
+  "comprehension": 146,
+  "modernize": 380,
+  "bugbear": 399,
+  "simplify": 263,
+  "cleanup": 57
+ },
+ "items_by_concern_count": {
+  "2": 513,
+  "3": 65,
+  "4": 6
+ },
+ "items_by_repository": {
+  "sympy": 154,
+  "astropy": 151,
+  "scikit-learn": 98,
+  "django": 66,
+  "sphinx-doc": 56,
+  "pytest-dev": 44,
+  "mwaskom": 13,
+  "psf": 1,
+  "pylint-dev": 1
+ },
+ "order_dependent": 66,
+ "order_dependent_pct": 11.3
+}
